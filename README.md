@@ -33,7 +33,7 @@ The same analysis is delivered in **three versions**:
 
 ## Key results
 
-On the 7,886 sales lines (2016 - 2020, 15 European countries):
+On the 7,886 sales lines (2016 - 2019, 15 European countries):
 
 | Question | Answer |
 |---|---|
